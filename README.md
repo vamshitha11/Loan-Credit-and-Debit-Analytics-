@@ -15,7 +15,9 @@ Track credit and debit usage patterns
 Identify high-value and suspicious transactions
 Understand customer activity and engagement
 Visualize data interactively using BI tools
+
 🧠 Key Insights
+
 Loan amounts range from ₹0 to ₹35,000+, with 36-month tenure being most common
 Interest rates vary from 5.4% to 24.5%, showing different risk profiles
 Credit-to-debit ratio analysis helps budget optimization
